@@ -3,7 +3,6 @@ Base Java Gradle project was setup with Intellij, dependencies were manually con
 
 Prompting process for /list API:
 1. Prompt: Implement a /list GET request that takes in the input parameters 'page' and 'numberOfResults'. 'numberOfResults' is an optional parameter with a default value of 15 and a max value of 30. /list should return products with server side pagination in JSON format, based on the input parameters.
-   https://github.com/carissalim-2020/sensible-defaults-day2-homework/assets/61401124/2d31ee6d-5961-431c-a930-a94364150c20
    <img width="691" alt="Collecting context" src="https://github.com/carissalim-2020/sensible-defaults-day2-homework/assets/61401124/2d31ee6d-5961-431c-a930-a94364150c20">
    <img width="692" alt="First, modity the Productcontroller" src="https://github.com/carissalim-2020/sensible-defaults-day2-homework/assets/61401124/1baeb41b-7e71-4dd6-b347-826732e876be">
    <img width="693" alt="Screenshot 2024-05-16 at 3 30 49 PM" src="https://github.com/carissalim-2020/sensible-defaults-day2-homework/assets/61401124/a7bee081-20b2-42fb-b415-612f931a1c60">
