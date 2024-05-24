@@ -1,4 +1,4 @@
-package tw.product.model;
+package com.tw.hexagon.order.model;
 
 import jakarta.persistence.*;
 import lombok.*;

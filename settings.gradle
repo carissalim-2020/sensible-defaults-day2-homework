@@ -1,0 +1,4 @@
+rootProject.name = "sensible-defaults-homework"
+include 'adapter'
+include 'application'
+include 'domain'
