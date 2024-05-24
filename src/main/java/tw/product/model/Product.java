@@ -3,6 +3,8 @@ package tw.product.model;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.math.BigDecimal;
+
 @Getter
 @Setter
 @Builder
@@ -14,7 +16,7 @@ public class Product {
     private Long id;
 
     private String name;
-    private Double price;
+    private BigDecimal price;
     private String imageUrl;
     private Integer quantity;
     private String description;
